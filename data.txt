@@ -1,0 +1,1610 @@
+Whats Project PS?
+Project PS is a mod that tries to bring another way to see or play SSF2, with more fun, "complexity" and a little lack of balance :)
+
+What have in Project PS?
+First, we have the new characters (Two Link, Roy, Vegeta, Tetromino,Cloud,Terry, Anakin,Spiderman,Vergil,Kira,Zero,King Dedede, Yu, Piccolo)
+After that we have Multiple changes in each character, whether from just Stats to New Movesets
+If you're sick of playing with the same moveset, remember that some characters have alternative Movesets chosen by their costumes (Metal Sonic, PS Ganondorf, PS Bowser, Kage, Ken, Dark Samus and others)
+and last but not least, we have the Air Grabs, Melee Airdodges, Airdashes(Air Dodge Cancel), Wavedash, Parry Disable and Final Hit Effect as New Mechanics
+
+we hope that u like this new patch ;)
+
+Project PS(Mediafire): https://www.mediafire.com/file/uf20cr...
+
+Changelog: https://www.mediafire.com/file/5sbw2u...
+
+Dev Application:https://forms.gle/Tez46av7oxbeLg6w9  
+
+
+
+Full Changelog – SSF2 Project PS Patch 1-5:
+
+
+Engine:
+* Air Dodge
+   =Now works like Crusade
+   -Can just be used one time in air
+   +It refreshes one jump
+   +Can be cancelled by Specials, Grab and Aerials
+* Added Final Hit Stun(its an effect that plays when character is going to die)
+* Added Air Grabs
+* Added PD(Parry Disable)
+  * If someone hits perfect shield it will go to Heavy Land animation, if it is on air will go into Helpless
+* Specific Alts now can change character move list
+  * Mario
+    _Fire(Have fire attacks, can multiple fireball by holding neutral B), Penguin(Slides and have Ice ball), Wario(Heals 1% when hit a attack with coins effect), Ice(Have Ice Attacks)
+  * Link
+    _Purple(Ice Bombs & Arrows), Black(Poison Arrow & Bombs), BOTW(More Damage on Arrows and Bombs)
+  * Ganondorf
+    _Six Costumes after the default 12(PS Mage Ganondorf)
+  * Samus
+    _Dark Samus to NES Samus(Dark Samus)
+  * Marth
+    _Cyan to White(Marth without Tippers)
+  * Pit
+    _Dark Pit to Dark Pit Yellow Costume(Dark Pit)  
+  * Mr Game & Watch
+    _GBA to Brown(Mixup Game & Watch)
+  * Sonic
+    _Metal Sonic to Purple and Gray Metal Sonic(Metal Sonic)
+  * Tails
+    _Chaos to Shadow(0.9b Tails)
+  * Ryu
+    _Ken to Evil Ryu/Akuma(Ken), Kage to Gray Kage(Kage)
+* Added Alternative Characters by pressing shield on CSS
+  * King Koopa(Bowser)
+  * PS Link(Link)
+  * Sword Kirby(Kirby)
+  * PS Sora(Sora)
+  * Kaioken Goku(Goku)
+  * Shandow(Sandbag)
+
+
+Solo:
+* All Star Mode
+   * Desatived because of glitchs
+* Classic Mode
+   * Updated difficulty of Insane
+
+
+Misc:
+* Added +120 costumes
+* Reworked Main Menu
+* Reworked CSS
+* Reworked HUD
+* Changed Backgrounds
+
+
+General Character Updates:
+* Reduced all Aerials Landing Lag to 3 to 5 frames
+
+
+Anakin:
+* Added to the game
+* General
+  * Rage mechanic allows him use dark side in exchange for damage
+    it buffs damage of lightsaber attacks and range of force attacks, and add heavy armor to Anakin
+   also it gives damage to Anakin at every 3 seconds
+  * Lightsaber attacks reflects projectiles on first frames
+  * Lightsaber attacks does more stun on opponents
+  * Rage stay active after 100%
+
+
+Bandana Dee:
+* Changed number of Midair Jumps 3 → 5
+* Down Tilt
+   * Now can be cancelled by jump
+   * Direction now is 75°
+* Down Smash
+   * Now launches out
+* Neutral Air
+   * Added Auto link
+* Up Air
+   * Added late hit(Direction 300°)
+   * Increased Active frames
+* Down Air
+   * Now Bounces when tottaly connected
+* Wave Beam
+   * Removed charge
+* Spear Throw
+   * Can charge up to 3 Spears
+* Waddle Copter
+   * Removed Helpless
+* Parasol Drill
+   * Can go out of ledges
+   * If pressed Attack on startup it does Parasol Dive
+* Parasol Dive
+   * Removed Multihit
+   * Now Spikes
+   * If pressed Attack on startup it does Parasol Drill
+* Backward Throw
+   * Increased Strenght
+
+
+Black Mage:
+* Increased Air Speed 6.5 → 6.8
+* Jab
+   * Spawns Warrior on second jab
+* Down Tilt
+   * Direction 30° → 75°
+   * Now can spawn Death
+* Dash Attack
+   * After Frame 15 can be Jump Cancelable
+* Down Smash
+   * Charged version is the default one
+* Back Air
+   * Weak hit Direction 30° → 125°
+   * Now can spawn Death
+* Down Air
+   * Damage 8% → 10%, KBG 80 → 95
+* Warp
+   * Added Intangibility
+   * Reduced Fall Speed 3 → 1
+* Down Throw
+   * Direction 50° → 65°, BKB 90 → 60
+* Death
+   * Added a RNG that does a critical hit
+
+
+Bomberman:
+* Tilts and Aerials can move bombs
+* Up Tilt
+   * KBG 105 → 65, BKB 40 → 30
+* Down Tilt
+   * Now is Jump Cancelable
+* Neutral Air
+   * KBG 95 → 35, BKB 20 → 70
+* Forward Air
+   * BKB 50 → 70
+   * Added Late hit(Direction 46° → 270°)
+* Up Air
+   * BKB 33 → 73
+* Bomb
+   * Now works a bit like Crusade Bomberman Down B
+* Bomb Kick
+   * Changed to Lightning Bomb
+* Jetpack
+   * Now its more faster and unique
+* Bomb(Projectile)
+   * Increased Size of Explosion
+   * Now it explodes on contact
+   * Now it hits yourself
+* Lightning Bomb(Projectile)
+   * It Stuns 
+   * It explodes on contact
+   * Unlike Bomb it dont stop after get hit
+ 
+
+Bowser:
+* Added Heavy Armor of 3% when Bowser have less than 30%
+* Decreased Damage Output by 3%
+* If press Taunt when Bowser have more than 200% he turns into GIGA BOWSER
+* Alts 7+ changes his Moveset to PS Bowser
+* Alt 13 Turns him into GIGA BOWSER(Obs: Nerfed damage and GB dies at 150%)
+* Up Tilt
+   * Added IASA Frames(9-17)
+* Dash Attack
+   * Removed Weak Hit
+* Back Air
+   * Now its like Ultimate
+* Up Air
+   * Added a fire effect
+   * Added a Stronger Hitbox on fire
+* Down Air
+   * Works like Ultimate
+* Fire Ball
+   * Removed angled Fireball
+   * Decreased Endlag
+* Flying Slam
+   * Increased X Speed on Left and Right interactions after grabbing opponent
+* Whirling Fortress
+   * Removed Helpless on ground
+   * Added a final hit on air
+* Bowser Bomb
+   * Ground version can be cancelled by aerials before falling
+   * Air version can be cancelled by aerials on falling
+   * Decreased Landing Lag by 3 frames
+   * Increased Shield Damage, Air version now Buries
+
+
+King Koopa:
+* Added Heavy Armor of 8%
+* Removed Shield
+* Incrased size of 1.5
+* Jab
+   * Added a third hit thats can be held: Fire Breath
+* Up Tilt
+   * Changed to Fire Breath
+* Dash Attack
+   * Replaced by Whirling Fortress
+* Down Smash
+   * Replaced by a Crusher
+* Down Air
+   * Replaced by Bowser Bomb
+* Fire Ball
+   * Replaced by Poison Punch
+* Flying Slam
+   * Replaced by Rolling Fortress
+* Whirling Fortress
+   * Replaced by Telepunch
+* Bowser Bomb
+   * Replaced by Spike Ball
+
+
+Captain Falcon:
+* General
+  * Added a charge mechanic, that makes every move do the same damage as Falcon Punch. Hold Down Taunt to charge
+* UTilt
+  * Is Similiar to Ultimate
+* Raptor Boost
+  * If attack is held in air it will do ground version
+* Falcon Dive
+  * It Bounces on hit
+
+Chibi-Robo:
+*Mechanics
+- Malfunctioning mode was added to our cute bot. Activates at 96+ damage. May or may not change.
+- In this mode, all of your attacks become much more powerful, and most smash attacks kill. 
+- Taunting while at 96%+ will grant you 4 random abilities.
+     1. Giga Robo (Slow, big heavy armor, ganondorf treatment basically)
+     2. Happy Robo (Normal, 3 jumps)
+     3. God Robo (Normal Heavy Armor
+     4. Fast Robo (Explore the skies with quickspeed and high jumps.
+- Side taunting in general also adds 15% damage.
+_________________________________________________
+*Specials
+- Upspecial no longer puts you into free fall making for neat combos. Doesn't apply if you are above 96%.
+- NSpecial fires lazors farther now, shoots 3 at once in malfunctioning mode.
+- Side special hits faster in malfunctioning mode.
+__________________________________________________
+* Aerials
+All aerials become multi-hit above 96%.
+__________________________________________________
+*Misc
+- Backthrow can kill at ledge (throwing your opponent into bottom blastzone) above 96%.
+- At 96%+ damage, Chibi Robo gains a new final smash. Fires nonstop lazors at ur opponent if you angle right.
+- Most of his overpowered attacks have recoil and deal damage to yourself.
+
+
+Cloud:
+* Has been added from Project B
+* General
+  * Added Meter to Limit
+  * Now Limit buffs speed
+* UTilt
+  * Added 2F of startup
+* DTilt
+  * Can be cancelled after F10
+* FAir
+  * Increased Range
+* DAir
+  * Now Bounces on hit
+* Neutral B
+  * Increased Endlag
+* Cross Slash
+  * Replaced by Meteor(No Limit)
+  * Increased Endlag on Limit Cross Slash
+* Limit Charger
+  * Replaced by Aeroga(Non Limit before 100%)
+  * Replaced by Regen(Non Limit after 100%)
+
+
+Donkey Kong:
+* General
+  * His arm is now invincible on FTilt, USmash, FAir and DTilt
+  * Added heavy armor on FSmash, USmash and DSmash
+* UTilt
+  * Ends 8 frames earlier
+* FAir
+  * Spike starts earlier
+* UAir
+  * Buffed Knockback
+* DAir
+  * Buffed Knockback
+* Giant Punch
+  * Increased active frames
+  * Starts Earlier
+* Spinning Kong
+  * Replaced by Barrel Launcher
+* Down B Air
+  * Added Barrel Throw
+
+
+Falco:
+* UTilt
+  * Is now a two hit attack
+* FSmash
+  * Is now a two hit attack
+* USmash
+  * Is now a two hit attack
+* NAir
+  * Is based on Ultimate
+* Side B
+  * Now goes on diagonal
+  * Have a sweetspot that spikes
+* Up B
+  * Can be cancelled with aerials
+
+
+Fox:
+* General
+  * Increased Output damage
+* FSmash
+  * Low hit buries
+* FAir
+  * Reduced number of hits
+* Side B
+  * Can be cancelled with Attacks
+* Laser
+  * Now have knockback
+* Up B
+  * When hit ground it can be cancelled with aerials
+* Shine
+  * Increased knockback
+
+
+Ganondorf:
+* General
+  * Added Float
+  * Increased Speed(9 -> 11)
+  * Double Jump is slower but mantains speed on attacks
+* Jab
+  * Now can be cancelled on endlag
+* FTilt
+  * Is Stronger
+* UTilt
+  * Quick: Now can be cancelled on endlag
+  * Pressed: Now buries
+* DTilt
+  * Is Faster and Weaker
+* Dash Attack
+  * Have less endlag and is Weaker
+* FSmash
+  * Have less endlag and less startup
+* FAir
+  * Have a spike hit box now
+* BAir
+  * Increased Arm Knockback
+* Warlock Punch
+  * Can be cancelled with shield
+* Flame Choke
+  * If B button is held on ground, Ganondorf mantains speed after the grab of opponent
+  * If press B after grabbing someone on Air, Ganondorf send the opponent down and end the move
+* Dark Dive
+  * Added Arm Hitbox
+* Wizard´s Kick
+  * You can do both versions holding A on startup
+  * If you quickly press Down B Ganondorf does a small paralysis attack
+* Pummel
+  * Does 6% now
+* UThrow
+  * Is a Spike now
+* DThrow
+  * Sends Backwards now
+
+
+PS Ganondorf:
+* Jab
+  * He does a small dark magic that is a quick multihit
+* UTilt
+  * He swings up his sword making a powerful thunder falls in it
+* Dash Attack
+  * He does a little approach using his sword
+* FAir
+  * He makes a small ball of energy and launches it forward
+* BAir
+  * Is weaker
+* UAir
+  * He does a strong swing with his sword
+* DAir
+  * Ganondorf creates a powerful thunder in his hand, it haves a powerful hitbox on tip
+* Wizard´s Blade
+  * He dashes through the opponent with his sword, this attack breaks shields
+* Dark Portal
+  * Ganondorf opens a Dark Portal that locks the opponent in it. Pressing up or down after grab will change the direction of the attack
+* Cape Swing
+  * Ganondorf swings his cape to protect himself, besides refleting projectiles it multiply his speed on air(also can be held)
+* Dark Warp
+  * Ganondorf teleports using portals, he appearing does a powerful hit.
+* UThrow
+  * Sends at SSF2 Vanilla angle
+
+
+Goku:
+* General
+  * Improved Hit effects
+  * Increased Float time
+  * Added Ki Mechanic:
+    * Hit attacks to charge Ki
+    * Hold Down B to charge Ki
+    * Hold B during charge on Smash Attacks to make a better version of it
+    * Hold B on side B on hit to do a finisher(80% does Genki dama)
+    * Both Up B and Side B with Ki Doesnt put on Helpless
+    * Neutral B needs Ki
+    * Charge full Ki and uses down B to does a Dramatic Finish
+    * Charge full Ki and uses down B against Vegeta to do another Dramatic Finish
+* Jab
+  * Added a Third Hit
+* FTilt
+  * Can be cancelled with specials
+* Down Tilt
+  * Its a simple Kick now
+* UTilt
+  * Its a backward kick now
+* FSmash
+  * Is now multiples punchs
+* DSmash
+  * Non Ki version is the same as Kaioken
+  * Can be cancelled with side B on hit
+* NAir
+  * Its now a double hit kick
+* UAir
+  * Its a half flip kick now
+  * It Bounces on hit
+* DAir
+  * Its a downward Kick Now
+* Kamehameha
+  * Added a stun Hitbox on front of Goku
+  * Can be angled down on ground
+  * Needs three bars to be used
+* Ki Blasts
+  * Replaced by Superdash
+  * Superdash can be aimed
+  * It costs half bar
+* Transmission
+  * Is now Teleport
+  * It costs two bars
+* Down B
+  * Replaced by Ki charge
+  * When you have all bars it performs a powerful dash that goes into a Dramatic Finish
+* BThrow
+  * You can move it now
+  * It doesnt fall in air
+* DThrow
+  * Now Goku does a Kamehameha to finish the Throw
+  * It doesnt fall in air
+* UThrow
+  * Now Goku does a Kick like Naruto and sends opponent down
+  * It doesnt fall in air
+
+
+Kaioken Goku:
+* General
+  * It gives 5% at every 10 frames
+* USmash
+  * New one based on Base Goku from DBFZ
+* Down B
+  * Is jump cancelable
+
+
+Ichigo:
+* FTilt
+  * Stuns on first frame
+* Dash Attack
+  * An new one based on side B
+* Getsuga
+  * Ends faster
+  * Non charge is faster and weaker
+  * Full charge is slower but stronger
+* Up B
+  * Can be cancelled on last hit(Ground)
+  * Air version goes higher
+* Side B
+  * Doesnt put on helpless
+
+
+Isaac:
+* General
+  * Increased Run speed(10 -> 11)
+* Jab
+  * Its faster now
+* UTilt
+  * Can be cancelled after the summoning
+* DTilt
+  * Now the projectile stays on the place even after attack is finished
+* USmash
+  * Buffed KBG(97 -> 120)
+* FSmash
+  * Buffed KBG(80 -> 120)
+* DSmash
+  * Buffed KBG(75 -> 120)
+* UAir
+  * Buffed KBG(90 -> 115)
+* BAir
+  * Buffed KBG(95 -> 130)
+* Move
+  * Can be aimed by pressing Up Smash(goes Up) or Down Smash(goes Down)
+  * Is stronger
+* Up B
+  * Removed Helpless
+
+
+Jigglypuff:
+* General
+  * All jumps have the same height
+  * Aerials can be cancelled with specials
+* UTilt
+  * Have fixed KBG now
+* DTilt
+  * Replaced by Rollout
+* Dash Attack
+  * Its Stronger now
+* Rollout
+  * Replaced by Hyper voice
+* Pound
+  * Ground version is stronger and send upwards
+  * Air version send forward
+  * Added a tip that kills so early
+* Rest
+  * Send upwards
+* Sing
+  * Increased hitbox
+  * Animation ends earlier
+* UThrow
+  * Have fixed KBG now
+
+
+King Dedede:
+* Added to the game
+* New neutral B: Masked Missile
+
+
+Kirby:
+* General
+  * Reduced Jumps(6 -> 5)
+  * Added Hats of Newcommers
+  * Increased hitlag of the attacks
+* FSmash
+  * Replaced by Hammer
+* NAir
+  * Reduced startup and endlag
+* FAir
+  * Replaced by Sword
+* UAir
+  * Reduced endlag
+* Side B
+  * Replaced by Fireball
+* Up B
+  * Replaced by Warp Star
+
+
+Sword Kirby:
+* Added to the game
+
+
+Krystal:
+* FSmash
+  * Now weak hitbox freezes
+* DSmash
+  * Now quake(ground hitbox) buries
+* DAir
+  * Removed weak hit
+* Sniper
+  * Can be shield cancelled
+* Side B
+  * Reduced Bounce endlag
+
+
+Link:
+* UTilt
+  * Decreased Endlag
+* DTilt
+  * Decreased Endlag
+* FAir
+  * Its one hit now, like Toon Link
+* DAir
+  * Its a meteor on the first frames
+  * Can be cancelled with aerials after first bounce
+* Bow
+  * It have less endlag on air
+* Boomerang
+  * Works like Ultimate
+* Bomb
+  * Decreased endlag
+* Spin Attack
+  * (Ground)If it not hit you can move for any side
+  * (Air)Is one hit now
+  
+
+PS Link:
+* General
+  * his jump is higher than Link
+  * his air speed is higher than Link
+* Jab
+  * Its a single hit move
+* Dash Attack
+  * He does a roll, if did next to ledge he jumps
+* FSmash
+  * Its one hit only
+  * Like Ultimate, it sends a Sword Beam, but that one is stronger
+* USmash
+  * Is Ice rune, can be moved during charge
+* NAir
+  * He rotates the Guardian Spear
+* UAir
+  * He rotates the Flame Spear, it have a powerful hitbox on start of the attack
+* DAir
+  * Its Shield Bounce, after bounce it can be canceled. That move can be held
+* Neutral B
+  * He does the Spin Attack, but its slower and more powerful. Full charged launchs 4 thunders
+* Side B
+  * Its now Armor Break, from Hyrule Warriors.
+* Down B
+  * Its Light Arrow. It can be cancelled with Shield.
+* Up B
+  * Its Fast Travel. Use it on ground to mark the place, when on air it will teleports you to the rune
+* Grab
+  * Its a simple Grab now
+  * Removed ZAir
+
+
+Lloyd:
+* New Gimmick:
+  = Neutral moves & Throws(except DThrow & BThrow) can be cancelled by anything on hit;
+* Dash Attack
+  * It goes far
+* USmash
+  +Increased hitbox to hit under the Sword
+* FSmash
+  +Increased Power(30 -> 55)
+* DSmash
+  = Now it Buries opponent on first hit
+  +Increased size of hitbox of first hit
+* Aerials after Up B doesnt put on Helpless now
+* DAir
+  =Changed direction of final hit(70 -> 300) 
+* Neutral B
+  =Now it can be cancelled by anything after projectile spawn
+* Side B
+  =Can be cancelled by any Special before last hit
+  +It doesnt put on Helpless anymore
+* Down B
+  =Is faster;
+
+
+Lucario:
+* General
+  * Now Aura increases with taunt
+  * Aerials can be cancelled with specials
+* NAir
+  * Adjusted angle to combo better
+* FAir
+  * Adjusted angle to combo better
+* DAir
+  * It doesnt stall on air
+  * Removed non spike hitbox from second hit
+* Up Special
+  * Doesnt sends on helpless
+  * Can be cancelled with aerials on endlag
+
+
+Luffy:
+* Jab
+  * Added hitstun to multihit
+* NAir
+  * Is an Chargeable attack
+* UAir
+  * Is an Chargeable attack
+* DAir
+  * Increased KBG
+* Neutral B
+  * Its jab final hit now
+* Side B
+  * Is faster now
+* Down B
+  * Increased high of air version
+  * Added one more use
+
+
+Luigi:
+* General
+  * Increased slide speed
+  * Removed slower skid animation
+* UTilt
+  * Flipped animation
+* DTilt
+  * Is faster
+  * Launchs out
+* FSmash
+  * Is angleable now
+* NAir
+  * Is faster now
+* FAir
+  * Is faster now
+* UAir
+  * Is faster now
+* DAir
+  * Swapped hitboxes
+* Fireball
+  * Now Luigi use his Poltergust to launch 9 angled mini fireballs
+    * Note: Pressing FTaunt Luigi can throw out a Ghost!(One per stock)
+* Green Missile
+  * Now can be aimed up and down
+  * Increased chances of Misfire
+  * Can be cancelled with aerials on hit
+* Cyclone
+  * Now goes higher
+  * Its a multihit now
+* Super Jump Punch
+  * Increased invincibility time
+  * Added 4 frames of super armor in startup on ground version 
+  * Increased KBG of weak hit 
+
+
+Mario:
+* General
+  * Normal Taunt gives an Mega Mushroom after 100%
+  * Increased Hitlag on attacks
+* UTilt
+  * Now have coin effects
+  * Reduced endlag
+* Dash Attack
+  * Now can be cancelled with everything
+* USmash
+  * Reduced endlag
+* FAir
+  * Removed non spike hit
+* UAir
+  * Combos better
+* BAir
+  * Is Stronger
+* DAir
+  * Replaced by Ground Pound
+* Fireball
+  * Reduced 2 frames of endlag
+  * Increased damage(5% -> 10%)
+* Tornado
+  * Replaced by Spin Jump
+    * That move can be cancelled with any move
+  * Holding grab on start you open the: Power Up Select
+    * Press left/right to change
+    * Press Attack to select
+    * Press Shield to cancel
+    * After selected Neutral B will change into a new power up
+* Super Jump Punch
+  * Increased KBG of final hit
+  * Is jump cancelable
+
+
+Fire Mario:
+* FSmash
+  * Is Stronger
+* NAir
+  * Have a strong late hit
+* FAir
+  * Is Stronger
+* Fireball
+  * Hold to launch more fireballs
+* Super Jump Punch
+  * Is similiar to Fire Mario from SSF2 0.8
+
+
+Ice Mario:
+* FSmash
+  * Now it freezes
+* FAir
+  * Removed Spike
+* Fireball
+  * Is now ice ball
+* Cape
+  * Now it freezes
+* Spin Attack
+  * Now it freezes
+
+
+Marth:
+* General
+  * Increased KBG of Tippers
+  * Tippers have aura effect now
+* FSmash
+  * Holding Up, Marth goes forward
+  * Holding Down, Marth goes backward
+* Shield Breaker
+  * Now it goes forward after the charge
+  * Now its full cancelable after the charge
+* Dolphin Slash
+  * Can be cancelled with aerials on end
+
+
+Marth WT:
+* General
+  * Removed Tippers
+  * Reworked attacks to have more consistency
+* Jab
+  * Its an one hit now
+* DAir
+  * Now sends on 271°
+* Dolphin Slash
+  * Goes less high then normal one
+
+
+Mega Man:
+* Jab
+  * Replaced by a new one
+* DTilt
+  * Can be held
+* FSmash
+  * Knuckle cant be breaked
+* USmash
+  * Buffed final hit strenght
+* FAir
+  * New one inspired by Ultimate BAir
+* DAir
+  * New one inspired by Ultimate DAir
+* UAir
+  * Tornado goes less distance but is stronger
+* Down B
+  * Replaced by Leaf Shield
+
+
+Meta Knight:
+* Dash Attack
+  * Replaced by Piercing Slash
+* UTilt
+  * Replaced by Upper attack from KF2
+* FAir
+  * Replaced by Neutral Aerial from KF2
+* DAir
+  * Replaced by Down Thrust
+* UAir
+  * Is Faster
+* Neutral B
+  * Can stay for more time
+* Side B
+  * Replaced by Knight Beam
+* Up B
+  * Press quickly to glide
+* Down B
+  * Goes far than normal
+* DThrow 
+  * Works like Ultimate Now
+
+
+Mr Game & Watch:
+* FTilt
+  * Buffed KBG(90 -> 110)
+* DTilt
+  * Fixed Stats to combo better
+* FSmash
+  * Removed Weak Hitbox
+* NAir
+  * Is now Parachute
+* FAir
+  * Buffed KBG(85 -> 110)
+* UAir
+  * Removed Second Hit
+* DAir
+  * Doesnt Send Mr G&W down 
+* Chef
+  * Launchs 2 projectiles now
+* Parachute
+  * Can Be cancelled with Jump
+  * Buffed Stats
+* Hammer
+  * Buffed Every Number before 9
+  * Added 0/10
+
+
+Mixup Mr Game & Watch:
+* UTilt
+  * Its Two Hits now
+* DTilt
+  * Sends Forward
+* FAir
+  * Its a Projectile like Ultimate
+* BAir
+  * Its a one hit
+* DAir
+  * Removed Non Meteor hitbox
+* Chef
+  * Ends Faster
+* Parachute
+  * Its like Melee Now
+
+
+Naruto:
+* UAir
+  * Is Stronger
+* DAir
+  * Is a Spike now
+* Neutral B
+  * Removed charge
+* Side B
+  * Press taunt to swap places with clone
+  * Press quickly to throw a kunai
+* Up B
+  * Now you need to press attack instead of special to do the kick
+* Down B
+  * Replaced by Clone Creation
+
+
+Ness:
+* General
+  * Increased jump(2 -> 3)
+* DTilt
+  * Now Buries
+* USmash
+  * Replaced by PK Flash
+* NAir
+  * Is faster
+* FAir
+  * Is faster
+* UAir
+  * Is faster
+* DAir
+  * Is faster
+* Neutral B
+  * Replaced by Pk Thunder
+* Side B
+  * Is faster
+* Down B
+  * Works like Ultimate
+* Up B 
+  * Is now PSI Teleport
+
+
+Pac-Man:
+* UTilt
+  * Is smiliar to Ultimate
+* DAir
+  * Final hit now kills
+* Neutral B
+  * Increased Hitlag, Hitstun and Knockback of all fruits
+* Side B
+  * Removed Helpless
+* Hydrant
+  * Buffed knockback of water
+
+
+Peach:
+* General
+  * Increased time of Float
+* DSmash
+  * Increased Hitstun
+* NAir
+  * Is faster
+* FAir
+  * Is faster
+* UAir
+  * Is faster
+* DAir
+  * Is smiliar to Ultimate
+* Up B
+  * Can be cancelled with attack during peach goes high
+* Side B
+  * Is Stronger
+* Down B
+  * Increased Hitlag, Hitstun and size of all Turnips
+  * Added a variantion(Command Grab) on air
+
+
+Pichu:
+* General
+  * Damage output based on Ultimate
+  * Reduced self damage
+  * Smash Attacks can be held
+  * Discharged attacks are the normal ones
+* FTilt
+  * Is Similiar to Ultimate
+* DTilt
+  * is a better combo move
+* UTilt
+  * is a better combo move
+* UAir
+  * is a better combo move
+* BAir
+  * is a two hit move now
+* FAir
+  * is a better combo move
+* DAir
+  * Is Similiar to Ultimate
+* Up B
+  * Increased Uses(2 -> 6)
+* Side B
+  * Is fully cancelable
+* Down B
+  * Now thunder throws opponent to Pichu hitbox
+
+
+Pikachu:
+* General
+  * Added QCF inputs
+    * Attack: Forward Weak Attack from Pokken
+    * Special: High Stance Weak Attack from Pokken
+  * Increased hitlag of the moves
+  * UTilt, USmash and DSmash can be cancelled into inputs
+* DTilt
+  * Added a Dust that have a hitbox
+* NAir
+  * Is now MidAir weak attack from Pokken
+* FAir 
+  * is now High Stance Strong Attack from Pokken.
+* DAir 
+  * is now MidAir strong attack From Pokken
+* Thunder
+  * Now its a target lock projectile
+
+
+Pit:
+* General
+  * Added Float
+  * All jumps have same high
+* UTilt
+  * Now does a jump on second kick
+* UAir
+  * Is a single hit now
+* Arrow
+  * Reduced endlag
+  * Arrow Control is easier
+  * Added hitstun to combo better
+* Palutena Flight
+  * Replaced by Shield Bash.
+
+
+Dark Pit:
+* General
+  * Now it have Ultimate Voices.
+* UTilt
+  * Is now a single backward kick
+* FSmash
+  * Is a front swing like Marth Shield Breaker
+* USmash
+  * Is a two hit slash like Marth USmash
+* Silver Bow
+  * Arrow is Slower
+  * Arrow is Stronger
+* Palutena Flight
+  * Replaced by Electroshock.
+* Electroshock
+  * Replaced by Shield Bash.
+
+
+Rayman:
+* DAir
+  * Its a two hit move
+* Neutral B
+  * Reset Jumps on hit
+* Up B 
+  * Goes high
+* Down B
+  * Can teleport Plum to him if pressed again
+
+
+Roy:
+* General
+  * Now it have Ultimate Voices.
+* Added to the game
+* New DSmash based on Project M;
+* New Dash Attack based on Ultimate;
+
+
+Ryu:
+* General
+  * Increased hitstun and damage of attacks
+* Jab
+  * Heavy can be command cancelled
+* DAir
+  * Removed non spike hit
+* Neutral B
+  * Every version can be cancelled after launching a Hadouken
+* Up B(Both)
+  * Added intangibility frames
+* Side B(Both)
+  * Is stronger
+* Down B
+  * Removed hit break
+* UThrow
+  * Its better to combo now
+* DThrow 
+  * Its a better combo move now
+
+
+Ken:
+* General
+  * Now it have Ultimate Voices.
+* Jab
+  * Heavy is Crescent Kick
+* FTilt
+  * Heavy is a strong punch
+* FSmash
+  * Is faster but weaker
+* NAir
+  * is a kick
+* UAir
+  * Is a Kick
+* Neutral B
+  * Removed Shakunetsu
+* Side B
+  * Is a Multihit now
+* Up B
+  * Hold to fire Shoriuken
+
+
+Kage:
+* General
+  * All of his stats are worst then Ryu ones
+  * Added Shun Goku Satsu as an secret attack.
+  * Now it have SFV Voices.
+* General
+  * Removed pressed and hold variations
+* Jab
+  * Is based on EWFG
+* FSmash
+  * Replaced by Crush Counter 3 of SFV.
+* NAir
+  * Works like Kazuya
+* UAir
+  * Is like Ken but have a spike hitbox
+* DAir
+  * Its now and Unique Move from Kage of SFV
+* Neutral B
+  * Is now Shakunetsu based on SFV Kage Shakunetsu Hadouken
+  * Removed True Hadouken
+  * Removed Hadouken
+* Side B
+  * Replaced by Senha Kassatsu, similiar to Kazuya Side B it disables opponents on ground and knocks out opponents on air
+* Up B
+  * Removed command
+  * Its a two hit strong move
+* Down B
+  * Replaced by Sekieiken, Similiar to Bowser down B where if u do it on ground he jumps and fall down doing an strong punch that spikes opponents. 
+   On Air it goes automatically down instead of jumping first.
+
+
+Samus:
+* USmash
+  * Final hit is stronger
+* NAir
+  * Is based on Ultimate
+* Neutral B
+  * Can be charged on air
+* Side B
+  * Can be cancelled with jump on ground
+* Down B
+  * Removed gravity of bombs
+* Up B 
+  * goes higher
+
+
+Dark Samus:
+* General 
+  * Swapped fire to eletric effects
+* UTilt
+  * Is a fast canon swing
+* DTilt
+  * Is Faster
+* FSmash
+  * Its a one hit move now
+  * Is Faster
+* USmash
+  * Its a one hit move now
+  * Is Faster
+* NAir
+  * Is like Sephiroth
+* FAir 
+  * Its a one hit move now
+* DAir 
+  * Puts to sleep on ground
+* UAir
+  * Its a one hit move now
+  * Is Faster
+* Neutral B
+  * changed to Phazon Beam
+* Side B
+  * Its like Lucario Side B
+* Down B
+  * Removed Bombs
+* Up B 
+  * Its now float
+
+
+Sandbag:
+* General
+  * Added PS Energy Mechanic
+    * Neutral B charge it
+    * An Purple Smash Symbol will appear on hud when full charged
+    * Now he gains new Specials with the power of Gods and PS
+  * Added Float
+* Dash Attack
+  * Now its a Command Grab
+* FSmash
+  * Now its KAMEHAMEHA!
+
+
+Shandow:
+* Wtf bro do you really care?
+* But, it haves a resprite now
+
+
+Sheik:
+* DSmash
+  * Its a multi hit now
+  * You can move it now
+* DAir
+  * Its like Kirby DAir
+* UAir
+  * Its a multi hit now
+* NSpecial
+  * Removed Charge
+* USpecial
+  * Now instead of a dust is another explosion
+* DSpecial
+  * Its a counter now
+* Taunt
+  * Transforms into Zelda
+
+
+
+Simon:
+* FSmash
+  * Removed Sourspot
+* NAir
+  * Is like Ultimate one
+* FAir
+  * Removed Sourspot
+* BAir
+  * Removed Sourspot
+* FDAir
+  * Removed Sourspot
+* FUAir
+  * Removed Sourspot
+* BDAir
+  * Removed Sourspot
+* BUAir
+  * Removed Sourspot
+* DAir
+  * Now its aerial cancelable on hit
+* Neutral B
+  * Is faster
+* Side B
+  * Is bigger and stronger
+  * Can be used 2 times;
+* Down B 
+  * Ground Version Works like Ultimate
+  * Its a multi hit now
+
+
+Sonic:
+* General
+  * Added Boost Mechanic, Run to Fill the X
+* UTilt
+  * Its like PMFE
+* Dash Attack 
+  * Received a new one
+* NAir
+  * Hold B to cancel into a Homing Attack
+* DAir
+  * Its now Bounce
+  * Its cancelable on hit
+* Homing Attack
+  * Is cancelable with Specials on hit
+* Side B
+  * Replaced by Boost
+  * Depending on the charge, it will be stronger
+  * Weaker version is cancelable with aerials and jump
+  * Stronger version is only cancelable with jumps
+* Down B
+  * Aerial version is now Sonic Boost
+
+
+Metal Sonic:
+* UTilt
+  * Its now Claw Swing
+* Dash Attack
+  * Its Overdrive
+* NAir
+  * Replaced by Ring Spark Field
+* FAir
+  * Replaced by Claw Sing
+* BAir
+  * Replaced by Core Explosion
+* UAir
+  * Replaced by a backflip kick
+* Neutral B
+  * Its now Spark Field
+* Side B
+  * Its V. Maximum Overdrive now
+* Up B
+  * Its now flight
+* Uthrow
+  * Is kinda like R.O.B.
+
+
+Sora:
+* General
+  * Spell changes attack stats
+    * Fire is Stronger but is minus on hit
+    * Blizzard is default Sora
+    * Thunder have fixed KB
+* Neutral B
+  * Blizzard Freezes
+* Side B
+  * Fire go shorter
+  * Thunder allow you to use infinite Side B´s but if it hits put you on helpless
+* Up B
+  * Fire go shorter
+  * Thunder is Fourthslash
+
+
+PS Sora:
+* General
+  * Added Ness Double Jump
+  * Added Ultimate Voices
+* DTilt
+  * Is similar to Ultimate
+* Dash Attack
+  * Bounces on hit
+* NAir
+  * is bigger and combo better
+* UAir
+  * Adjusted KBG to combo better
+* DAir
+  * Adjusted KBG to combo better
+* Neutral B
+  * Replaced by Magic Spell
+* Side B
+  * Now its a command grab
+* Up B
+  * Now its similar to Ultimate
+* Down B
+  * Now its Spell Select
+    * Attack: Firaga
+    * Special: Blizzard
+    * Grab: Graviga
+    * Taunt: Thundaga
+
+
+Spiderman  
+* Added to the game
+* New Final Smash
+* Down B
+  * Aerial version only works on characters with more then 80%
+ 
+
+Tails:
+* General
+  * All jumps have the same high
+* DAir
+  * Is stronger
+* Neutral B
+  * Is stronger
+* Down B
+  * Is jump cancelable in air
+* Up B
+  * Now its angleable
+  * Is stronger
+
+
+0.9b Tails: 
+* Side B
+  * Is like 0.9b Tails Side B
+* Up B
+  * Is like 0.9b Tails Up B
+
+
+Terry:
+* Added to the game
+* Changed Inputs
+  * QCF + B = Power Geyser
+  * QCF + A = Power Dunk
+  * QCB + B = Buster Wolf
+  * QCB + A = Crack Shoot
+* Removed GO! Advice, you can use inputs at 0
+* Added MAX MODE, it buffs damage and give armor to Specials. Can be active by Holding A+B after 100%
+
+
+Tetromino:
+* Added to the game
+
+
+Two Link:
+* Added to the game
+
+
+Vegeta:
+* Added to the game
+* Transformation timer depends of how much damage you have;
+* Added Transformations(Hold DTaunt):
+  * Super Sayain:
+    * Speed;
+    * Air Speed;
+    * New Down B: Final Explosion Rush;
+  * Super Sayain God Super Sayain:
+    * 1.4 Damage Multiplier;
+    * New Side B: Added Final Flash Strike;
+    * Cancelable Attacks;
+  * Ultra Ego:
+    * Damage Multiplier based on Vegeta Damage;
+    * Cancelable Attacks;
+    * New Neutral B: Dramatic Hakai;
+    * Float;
+
+
+Vergil:
+* Added to the game
+* New Effects
+* New Moves: Jab, FTilt, NAir, UAir, DAir, Side B, Down B(Ground), Grab, FThrow, DThrow, BThrow, UThrow, Final Smash
+* Added Devil Trigger Meter
+  * Hit to fill the bar
+  * When you have more then 3 Bars, Hold DSpecial to active Devil Trigger
+* Devil Trigger
+  * All Stats are buffed
+  * Added one more jump
+  * Damage and Knockback are buffed
+  * New Dash Attack
+  * New USmash
+  * Mash B on Judgement Cut to use 3 times
+  * Most of Tilts and Aerials can be cancelled
+  * Grab and most of the attacks are faster
+
+
+Waluigi:
+* DTilt
+  * Two last hits does an Weak Meteor Smash
+  * Third hit buries on ground
+* UAir
+  * Sends Up, But holding B it does what Vanilla does
+* DAir
+  * Removed weak hit
+  * Can be cancelled with attacks
+* Dice
+  * Can use up to 4
+  * Every number except 6 gives an item to Waluigi
+* Up B
+  * Weak hit sends to Stronger Hit
+* Side B
+  * Increased frame window of Misfire(22-25 -> 10-25)
+  * Charging Side B changes Misfire Stats too
+* Down B
+  * Piranha plant vase does an Meteor Smash now
+
+
+Wario:
+* General
+  * Waft Resets on death
+  * Waft charges faster
+  * Buffed run(8 -> 9)
+* UTilt
+  * Combo better
+* DTilt
+  * Is like Brawl-
+  * Can be held
+* USmash
+  * Is Faster and Stronger
+* DSmash
+  * Now sends out
+* NAir
+  * Combo better
+* FAir
+  * Combo better
+* UAir
+  * Combo better
+* Side B
+  * Is slower but stronger
+* Up B
+  * Is higher, stronger and slower
+* Down B
+  * Level one gives poison 
+
+
+Yoshi:
+* General
+  * Added one jump
+* Side B
+  * Replaced by Fire ball
+* Up B
+  * Press Taunt to teleport to egg
+* Down B
+  * Now star stays in the place
+
+
+Yoshikage Kira:
+* Added to the game
+* He have a full mechanic so see it here:
+* Bombs:
+You have three Bombs that you can send/place:
+- Neutral B/ Daichi no Bakudan(First Bomb/FB):
+  when Kira Queen hits someone it places a bomb on people, press b or down b again to explode.
+  Note: Kira Queen Attacks dont will explode when a Bomb is placed
+- Side B/ Stray Cat + Daichi no Bakudan(SCB):
+  It sends a air bubble with a bomb, when hit people it explodes. If Neutral B bomb is placed, the air bubble dont will hit peoples.
+- Down B/ Daisan no Bakudan Bites the Dust(BtD)
+  Its a 1% Hit that puts a bomb on the opponent, when pressed again this will explode in a strong hit and will make you go back in time, 
+  giving back the same quantity of stocks, damage number and the same place that was when the bomb was placed.
+  You can just use one per game and when the bomb is placed, kira queen cant help you, so attacks that uses him, dont will be enable.
+  Note: Kira gain new UAir and New DAir when BtD is active, Neutral B can explode BtD, SCB will be always the non bomb version. Grab, Throws, Misc like Shield, Dodge, Taunt will not be affected by BtD
+* HUD:
+- Daichi No Bakudan:
+  A Kira Queen with crossed arms will appear at Yoshikage Kira Hud, it means that FB is on someone or when SCB have a bomb.
+- Daisan no Bakudan:
+  A Detailed Kira Queen will appear in Yoshikage Kira Hud, it means that BtD is on someone.
+* Attacks Affected By Daichi no Bakudan:
+-Dash Attack
+-UAir
+-DAir
+-Neutral B
+-Side B
+-Down B
+* Attacks Affected By Daisan no Bakudan:
+-Jab 3
+-FTilt
+-Dash Attack
+-FAir
+-BAir
+-UAir
+-DAir
+-Neutral B
+-Side B
+-Down B
+
+
+Zero Suit Samus:
+* UTilt
+  * is Bigger
+* DAir
+  * Buries
+* Neutral B
+  * Removed charge
+  * Buffed Projectile Stats
+* Side B
+  * Sends In
+  * Is faster
+* Up B
+  * Is now crescent Kick
+* Buffed Throws Damage
+
+
+Zelda:
+* General
+  * Increased air jumps: 1 => 2
+  * Decreased jump height
+  * Max Run Speed: 8.7 => 7.9
+* UTilt
+  * Is faster
+* DTilt
+  * Increased Range
+* Dash Attack
+  * Increased Range
+* NAir
+  * Is like Sephiroth but reflects
+* BAir
+  * Increased Range
+* NSpecial
+  * Is Similiar to Brawl- Mewtwo down B
+* Down B
+ * Reworked: Deals 20 hits (0.5 Damage) to add up to 10 damage. 
+   Afterwards, deals 4 more hits (30 damage) to K.O your opponent. Upon use, Zelda's specials will disable (excluding your recovery special) until you either get KO'd or switch to sheik.
+ * Down Special Mechanic: The 4 hits disable after your first use for the rest of the game. You can only restore the 4 hit K.O if you use a final smash.
+* Taunt
+  * Transforms into Sheik
+
+Zero:
+* Added to the game
+* New mechanic: Weapons Switch
+  * Hold Taunt the press some buttons to change moves
+    * Attack: NAir
+    * Special: Up B
+    * Down: Down Air
+
+
+Stages:
+Battlefield
+* Recolored to PS Scheme
+Final Destination
+* Recolored to PS Scheme
+Waiting Room
+* Recolored to PS Scheme
+Yoshi Story
+* Recolored to PS Scheme
+Smashville
+* Recolored to PS Scheme
+TOS
+* Recolored to PS Scheme
+FNAF Office
+* In place of Urban Champion
+Sm4sh Battlefield
+* In place of Steeldiver
+Dr Mario
+* In place of Mushroom Kingdom 2
+Forgotten TOS
+* In place of Chaos Shrine
